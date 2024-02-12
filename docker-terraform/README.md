@@ -45,3 +45,6 @@ taxt_ingext:v0001 \
 --url=${URL}
 
 python -m http.server
+
+docker compose build
+docker compose up
